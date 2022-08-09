@@ -263,3 +263,5 @@ xsolid.baidu.com
 yingxiao.baidu.com
 youku-acs.m.taobao.com
 znsv.baidu.com
+local.toolots.com
+www.baidu.com
