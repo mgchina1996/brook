@@ -1,4 +1,2 @@
-local.toolots.com
-toolots.com
 local.datacenter.com
 boltonlocal.com
